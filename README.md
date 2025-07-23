@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cleftwitch28
-- 👀 I’m interested in Data Science Machine Learning and App Developemnt
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on App development and Machine Learning and Data Science
+- 👋 Hi, I’m Goparaju Shyam
+- 👀 I’m interested in Data Science ,Machine Learning and Deep Learning along with data analytics 
+- 🌱 I’m currently learning DataScience(Masters)
+- 💞️ I’m looking to collaborate on Deep Learning and Agentic and AI Agent projects and Data Science
 - 📫 How to reach me mail:shyamhfn19@gmail.com
 
 <!---
